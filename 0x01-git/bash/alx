@@ -1,7 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ALX School
 =======
 #!/bin/bash
 echo "Alx School"
 
 >>>>>>> origin/update_script
+=======
+echo "AlX School"
+
+
+
+>>>>>>> 1d27a04f8670297a7f2ab8e91cf19adb40a9e2ed
